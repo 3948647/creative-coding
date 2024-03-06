@@ -9,7 +9,7 @@ Welcome everyone
 
 <iframe src="<iframe src="https://editor.p5js.org/3948647/full/Ht8ndN8bC" width="100%"height="242px"></iframe>
 
-![conrad](/20240306_first_post/download.jpg)
+![picture description](/20240306_first_post/download.jpg)
 
 Hello, world!
 
