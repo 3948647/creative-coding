@@ -11,7 +11,7 @@ Welcome everyone
 
 ![picture description](/20240306_first_post/download.jpg)
 
-Hello, world!
+Hello, World
 
 # This is h1
 
