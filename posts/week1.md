@@ -5,4 +5,4 @@ snippet: class example
 disable_html_sanitization: true
 ---
 
-something
+something 
