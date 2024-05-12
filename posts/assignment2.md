@@ -26,7 +26,7 @@ disable_html_sanitization: true
       img_data = cnv.toDataURL ("image/jpeg")
       add_glitch ()
    }
-   img.src = `/static/images/Balloony.jpeg`
+   img.src = `static/images/Balloony.jpeg`
 
    const rand_int = max => Math.floor (Math.random () * max)
 
