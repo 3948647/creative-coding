@@ -1,3 +1,9 @@
+---
+title: A2
+published_at: 2024-03-06
+snippet: A2 Test
+disable_html_sanitization: true
+---
 <canvas id="glitch_self_portrait"></canvas>
 
 <script type="module">
